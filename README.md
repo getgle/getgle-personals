@@ -1,2 +1,2 @@
 # getgle-personals
-getslist
+shitposty backlist clone i made in 20 minutes
